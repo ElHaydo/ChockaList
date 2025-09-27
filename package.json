@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "A browser based (portable) task manager, with timesheeting and dashboards.",
   "main": "index.mjs",
+  "type": "module",
   "scripts": {
     "start": "node index.mjs",
     "dev": "node --env-file=.env --watch index.mjs",
-    "test": "jest"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js --coverage"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   "homepage": "https://github.com/ElHaydo/ChockaList#readme",
   "devDependencies": {
     "dotenv": "^17.2.2",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
   }
 }

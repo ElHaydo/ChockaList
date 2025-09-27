@@ -4,10 +4,8 @@ dotenv.config(); //NODE_ENV=development
 //TODO: Make Application
 console.clear();
 
-class Main{
-
+export class Main{
     static {
         console.log("--- Calm down skippy! We're not there yet! ---");
     }
-    
 }
