@@ -69,5 +69,5 @@ Kermit gets automated reports at the end of each week and a timesheet to go with
 behaviour and environment. He doesn't feel like he is guessing as much as he did before. Kermit has a home office, he also uses ChocaList to determine how many hours 
 each week it's used as an office, which helps him complete his tax returns at the end of the financial year.
 
-Kermit was struggling before, because he was planning with no clear idea what obstacles he would face. Each obstacle made it harder to see the path forward.
+Kermit was struggling before, because he was planning with no clear idea of what obstacles he would face. Each obstacle made it harder to see the path forward.
 With ChocaList, Kermit became more tollerant to uncertainty, moving forward with more focus on tracking progress and less focus on planning progress.
