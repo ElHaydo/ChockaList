@@ -55,19 +55,19 @@ week simply to paperwork and he is starting to question if he knows what he is d
 for this long, and he definetly isn't used to having nobody to ask for guidance. Kermit is starting to wonder if he is naive for loosing the boss and thinks
 he isn't able to be productive if unsupervised. This makes Kermit depressed as this makes him feel like he is doomed to a miserable life working under difficult managers.
 Because his personal life and professional life have no seperation, he is also forced to consider if he will ever have time for his personal life.
-This is now making his question everything, if he can be a good partner, parent, friend, and his individuality at its core.
+This is now making him question everything, if he can be a good partner, parent, friend, and his individuality at its core.
 
 Kermit uses Chocalist and finds its simplicity reduces the noise of corporate solutions. He likes that he can mix big tasks and little tasks together.
 He finds it easy to tag his tasks so he can tell the difference between personal and work items. He can now manage the personal and professional balance together on the 
-same page/view and knows what feels right. His work into Business development is tracked as a single task. Time spent on extra learning his business obligations 
-is also tracked too. He does not have to allocate them days, he just keeps them in the task pool and clicks on their timers when he needs to.
+same page/view and knows what feels right. His work into Business development is tracked as a single task. Time spent on learning his business obligations 
+is tracked too. He does not have to allocate those big tasks a particular day to work on, he just keeps them in the task pool and clicks on their timers when he needs to.
 
-Kermit also adds little tasks which need to get done. He can allocate these to days so he knows when to do them and checks them off. He can begin to see some 
-signal within what used to be noise. He can now break down bigger tasks into smaller tasks and can be more creative in how he can navigate the grassroots scene.
+Kermit also adds little tasks which need to get done. He can allocate these to days so he knows when to do them. He can begin to see some 
+signal within what used to be noise. He can now be more creative with his business and how he gets work done.
 
 Kermit gets automated reports at the end of each week and a timesheet to go with it. He can use this to track his productivity and catch any trends or changes in his
-behaviour and environment. He doesn't feel like he is guessing as much as he was before. Because Kermit has a home office, he can also determine how many hours 
-each week this space as used as an office (instead of a room of his house) which helps him complete his tax returns at the end of the financial year.
+behaviour and environment. He doesn't feel like he is guessing as much as he did before. Kermit has a home office, he also uses ChocaList to determine how many hours 
+each week it's used as an office, which helps him complete his tax returns at the end of the financial year.
 
 Kermit was struggling before, because he was planning with no clear idea what obstacles he would face. Each obstacle made it harder to see the path forward.
-With ChocaList, Kermit became more tollerant to uncertainty, moving forward with less focus on planning progress and more focus on tracking progress. 
+With ChocaList, Kermit became more tollerant to uncertainty, moving forward with more focus on tracking progress and less focus on planning progress.
