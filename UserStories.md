@@ -1,6 +1,6 @@
-User Stories:
+# User Stories:
 
-John Doe and his anxious grandmother: 
+## John Doe and his anxious grandmother: 
 
 JohnDoe has taken time off to look after his grandmother. Every morning he has breakfast with his grandmother and she asks him to do tasks around the house.
 There are lots of tasks to be done and she gets emotional about everything which hasn't been completed. She asks each morning what he doing and if he finished
@@ -21,7 +21,7 @@ In the morning, John can tell his grandmother about the tasks he didn't get arou
 
 
 
-Jane Doe and her difficult work culture:
+## Jane Doe and her difficult work culture:
 
 Jane starts work at a new firm and has to keep a timesheet. The firm she is working at has been using timesheets for so long that they don't really feel
 like timesheets anymore. Her performance in her role is being measured based on the timesheet information she provides. She finds herself getting into trouble
@@ -43,7 +43,7 @@ know how she actually spends her time without the company telling her off for he
 
 
 
-Kermit Spacy and his greenfield startup:
+## Kermit Spacy and his greenfield startup:
 
 Kermit has decided to work for himself. He wants the dream of self-employment and no boss to breathe down his neak. Kermit is ready to work hard and gets off to
 a great start. After 3 months of work and little traction, Kermit is starting to loose momentum. His calendar planning has started to become chaotic as he 
