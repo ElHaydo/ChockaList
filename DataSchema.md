@@ -1,5 +1,5 @@
 
-// Task Schema
+### Task Schema
 {
     "id":"",
     "name": "",
@@ -9,12 +9,12 @@
     "priority":1,
     "dateToComplete":["Date1", "Date2"], //Allows you to use the same card in multiple places while keeping it linked.
     "timeSecondsSpent":0,
-    "timerActive":false, //Prevent multiple timers running ont he same clock
+    "timerActive":false, //Prevent multiple timers running on the same clock
     "dateCreated":"",
     "dateUpdated":"",
     "complete":false,
     "dateComplete": null
 }
 
-//Audit Log Schema
+### Audit Log Schema
 ["{Date} {ActionClass} {Action}", "{Date} {ActionClass} {Action}"]
