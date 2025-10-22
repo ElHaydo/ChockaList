@@ -1,4 +1,7 @@
 # User Stories:
+The following is a cross between user personas and user stories. 
+Unfortunately not the kind of user stories you would get during a sprint; however, sprint user stories can be easily generated from the following.
+
 
 ## John Doe and his anxious grandmother: 
 
@@ -71,3 +74,20 @@ each week it's used as an office, which helps him complete his tax returns at th
 
 Kermit was struggling before, because he was planning with no clear idea of what obstacles he would face. Each obstacle made it harder to see the path forward.
 With ChocaList, Kermit became more tollerant to uncertainty, moving forward with more focus on tracking progress and less focus on planning progress.
+
+
+
+## Hugh the Careful Cook
+
+Hugh loves to relax and eat his favorite food after lots of hard work. Lately, Hugh has been having these moments interupted by decisions being made by
+the big super-markets he gets his food from. Hugh has tried going to butchers and whole-food stores but sadly finds these are still falling short of 
+his expectations. The super-market has removed a product he used to make his meals and he can't find any replacement that fits.
+Hugh is eating a sausage and bread he cooked, when he realises that he had to spit something out every single bite he took.
+
+Hugh throws his sausage to the ground a cries a silent cry. Hugh has had enough, he wants to have more control over what food he eats and where it comes from.
+No more will he tollerate discontinued pasta sauce. No more will he have hard bits in his sausage.
+
+CocaList can't help Hugh. Hugh is a lost cause.
+
+Hugh donates to Chocalist knowing we make great software that can help every day people. Good on ya' Hugh. 
+Hopefully we can continue to make software so we can eventually help Hugh.

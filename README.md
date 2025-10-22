@@ -6,3 +6,6 @@ Chocalist discourages using calendars, time-allocation and prior planning. Hence
 
 Chocalist is an opinionated way of managing tasks which embraces uncertainty, fast-planning, and adaptability.
 "Progress happens faster for those who measure". Chocalist encourages a check, measure and adapt approach to productivity.
+
+New to development?
+Feel free to message the author about your interest and we can work together to help improve your coding skills.
